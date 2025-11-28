@@ -16,6 +16,10 @@ Instead of navigating the Cloudflare Dashboard manually, an engineer simply ente
 * **Automated Member Management:** Automatically adds your engineering team to every new account.
 * **Fun UI:** "Submit" button cycles through random engineering phrases (e.g., "Let There Be Cloud", "Spawn Instance").
 
+<img width="626" height="446" alt="image" src="https://github.com/user-attachments/assets/22a22e1b-c5c8-4bac-bdfd-98d8115838c4" />
+
+<img width="640" height="623" alt="image" src="https://github.com/user-attachments/assets/150cb0c4-76e1-444a-8dd8-78bc3002b435" />
+
 ---
 
 ## Prerequisites
